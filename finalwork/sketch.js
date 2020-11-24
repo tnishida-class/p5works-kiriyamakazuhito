@@ -10,7 +10,7 @@ function setup(){
   score = 0;
   rx=width/2;
   brickRowCount = 5;
-  brickColumnCount = 11;
+  brickColumnCount = 12;
   brickWidth = 82;
   brickHeight = 20;
   brickPadding = 10;
